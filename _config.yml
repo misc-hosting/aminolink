@@ -1,5 +1,5 @@
-url: ''
-baseurl: ''
+url: 'https://misc-hosting.github.io/aminolink/'
+baseurl: '/aminolink'
 title: 'Aminolink Peptides'
 
 plugins:
