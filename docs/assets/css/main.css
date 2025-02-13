@@ -735,8 +735,8 @@
   .bg-white {
     background-color: var(--color-white);
   }
-  .bg-\[url\(\'assets\/images\/bg\.png\'\)\] {
-    background-image: url('assets/images/bg.png');
+  .bg-\[url\(\'\/aminolink\/assets\/images\/bg\.png\'\)\] {
+    background-image: url('/aminolink/assets/images/bg.png');
   }
   .bg-contain {
     background-size: contain;
