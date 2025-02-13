@@ -1,6 +1,6 @@
 url: ''
 baseurl: ''
-title: 'CU Narrative Intelligence Lab'
+title: 'Aminolink Peptides'
 
 plugins:
   - jekyll-postcss-v2
